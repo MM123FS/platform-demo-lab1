@@ -1,14 +1,14 @@
 # Default owner
-* @GitFabien
+* @MM123FS
 
 # Platform configuration
-/.github/ @GitFabien
+/.github/ @MM123FS
 
 # Application code
-/src/ @GitFabien
+/src/ @MM123FS
 
 # Tests
-/test/ @GitFabien
+/test/ @MM123FS
 
 # Deployment configuration
-/deploy/ @GitFabien
+/deploy/ @MM123FS
